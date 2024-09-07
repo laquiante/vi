@@ -12,4 +12,12 @@ A    append am Ende der Zeile
 
 o    insert-Modus in der nächsten Zeile
 
-[range]:s/orig/neu[flag]
+w    Wortweises vorgehen
+W    White Space Wortweises vorgehen
+
+x    Zeichen entfernen
+p    einsetzen
+y    yank
+r    replace/erstzen
+
+Suchen und Ersetzen:    [range]:s/orig/neu[flag]
