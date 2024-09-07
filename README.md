@@ -20,4 +20,6 @@ p    einsetzen
 y    yank
 r    replace/erstzen
 
+cw   change word
+
 Suchen und Ersetzen:    [range]:s/orig/neu[flag]
